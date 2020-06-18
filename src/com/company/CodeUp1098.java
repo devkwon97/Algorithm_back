@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class CodeUp01098 {
+public class CodeUp1098 {
 
     public static void main(String[] args){
 
