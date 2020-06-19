@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class CodeUp1099 {
-//코드업 성실한 개미
+//코드업 성실한 개미 1099번
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
