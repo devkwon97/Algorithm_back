@@ -1,4 +1,4 @@
-package com.company;
+package codeup;
 
 public class CodeUp1093 {
 

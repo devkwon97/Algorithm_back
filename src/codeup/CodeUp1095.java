@@ -1,4 +1,4 @@
-package com.company;
+package codeup;
 
 import java.util.*;
 
