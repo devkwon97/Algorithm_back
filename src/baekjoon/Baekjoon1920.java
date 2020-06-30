@@ -40,7 +40,7 @@ public class Baekjoon1920 {
             int max = n; // 이진 탐색 결과 후 새 중간값을 구하기 위한 최대값, n을 하는 이유는 배열의 마지막 번째 수인 n-1번째 배열 값을 체크하기 위해서
             int min = -1; // 이진 탐색 결과 후 새 중간값을 구하기 위한 최소값, -1을 하는 이유는 0번째 배열값을 체크하기 위해서
             int middle;
-
+            
             while(max - min > 1){ // max와 min 차이가 2 이상 나지 않으면 max와 min 사이에 정수가 존재하지 않는다.
                 middle = (min+max)/2; // 이진탐색의 중간값
 
@@ -56,7 +56,6 @@ public class Baekjoon1920 {
 
             }
             System.out.println(flag);
-
         }
     }
 }
