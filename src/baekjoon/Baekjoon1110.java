@@ -32,6 +32,12 @@ public class Baekjoon1110 {
                 break;
             }
         }
+        //대체가능
+        //	do {
+        //			N = ( ( N%10 )*10 ) + (( (N/10) + (N%10) )%10 );
+        //			cnt++;
+        //		} while (copy != N);
+
         System.out.println(cnt);
     }
 }
