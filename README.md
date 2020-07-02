@@ -1,4 +1,4 @@
-## Coding_Test_Study
+## :orange_book: Coding_Test_Study
 ```
 알고리즘 문제풀이 공간~
 ```
