@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_binarysearch;
 // 백준 1920 수 찾기
 
 import java.io.BufferedReader;
