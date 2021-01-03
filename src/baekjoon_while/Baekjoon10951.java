@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon_while;
 //두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오. 종료값 없음
 import java.io.BufferedReader;
 import java.io.IOException;
