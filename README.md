@@ -1,6 +1,6 @@
-## :orange_book: Coding_Test_Study
+## :orange_book: 알고리즘 공부
 ```
-알고리즘 문제풀이 공간~
+백준 알고리즘 문제풀이 공간~
 ```
 ### 문제 사이트
 * [백준](https://www.acmicpc.net/)
