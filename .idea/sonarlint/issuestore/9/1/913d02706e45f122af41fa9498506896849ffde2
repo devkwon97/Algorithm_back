@@ -1,0 +1,14 @@
+
+r	java:S127%"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ýÿÿÿÿ
+m	java:S127,"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S1273"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+h
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(œû¿Ø
+E
+java:S10662"/Merge this if statement with the enclosing one.(…÷¥ª
+E
+java:S1066$"/Merge this if statement with the enclosing one.(ÜØ¤¯

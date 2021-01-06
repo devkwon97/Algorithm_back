@@ -1,0 +1,8 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ôÏD8ˆç¢Ãì.
+Z
+java:S1197""8Move the array designator from the variable to the type.(ê»žµþÿÿÿÿ8ˆç¢Ãì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ˆç¢Ãì.
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê»žµþÿÿÿÿ8ˆç¢Ãì.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÅ™êûÿÿÿÿ8ˆç¢Ãì.
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê»žµþÿÿÿÿ8ˆç¢Ãì.
